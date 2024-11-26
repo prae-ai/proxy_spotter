@@ -1,7 +1,5 @@
 # Proxy Spotter
 
-![proxy_spotter](https://github.com/user-attachments/assets/8f603c57-4cd3-40dc-be43-7f3f9e6191d1)
-
 ## About
 
 This repository is a template that shows how to use a [mitmproxy Addon script](https://docs.mitmproxy.org/stable/addons-overview/) to gather specified content and inserting a structured HTML object into a [Delta table](https://docs.delta.io/latest/quick-start.html). The intention here is to [clone the repo]() and make it yours locally or [fork the repo]() for using with a group or organization.
@@ -61,6 +59,8 @@ Configure the log output path in `FileLog` for any debugging of target domains a
 1) Clone the repository.
 2) Configure as explained above in [Configuration]()
 3) Run mitmproxy with the script option: `mitmproxy -s proxy_spotter.py`
+
+![proxy_spotter](https://github.com/user-attachments/assets/8f603c57-4cd3-40dc-be43-7f3f9e6191d1)
 
 ## Adding Sources
 

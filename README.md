@@ -6,6 +6,8 @@ This repository is a template that shows how to use a [mitmproxy Addon script](h
 
 This technique could certainly be extended, so if there are improvements to the template version of this repository, submit an Issue and this can be added.
 
+<img width="1671" alt="Screenshot 2024-11-26 at 12 55 32" src="https://github.com/user-attachments/assets/63327fa5-8f4e-4f7c-850f-bf0d10b5daf7">
+
 ## Configuration
 
 There are four main things that need to be configured before running the script.

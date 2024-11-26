@@ -1,3 +1,6 @@
+# Prevent custom URLs from being commited
+target_urls.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

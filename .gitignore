@@ -1,5 +1,5 @@
-# Prevent custom URLs from being commited
-target_urls.json
+# Prevent testing log from being pushed
+proxy_spotter.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
